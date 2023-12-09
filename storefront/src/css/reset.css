@@ -1,0 +1,27 @@
+button{
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    border: 0;
+    font-size: 16px;
+    padding: 12px 25px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    text-decoration: none;
+}
+
+a,button,strong,small,sup,blockquote,audio{
+    display: inline-block;
+}
+
+video,
+img{
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}

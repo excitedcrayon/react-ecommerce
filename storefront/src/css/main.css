@@ -4,3 +4,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root{
+
+    --opacity-none: 0;
+    --opacity-dim: 0.5;
+    --opacity-full: 1;
+
+    --transition-fastest: 0.2s;
+    --transition-fast: 0.4s;
+    --transition-medium: 0.5s;
+    --transition-slow: 0.7s;
+    --transition-slowest: 1s;
+}

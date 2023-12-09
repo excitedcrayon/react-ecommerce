@@ -1,4 +1,10 @@
+import PageSlider from "../components/PageSlider";
 
 export default function Home(){
-    return <h1>Home</h1>
+
+    return(
+        <>
+            <PageSlider />
+        </>
+    )
 }
