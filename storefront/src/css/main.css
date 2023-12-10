@@ -53,7 +53,7 @@ body{
 }
 .btn_wrapper{
     display: flex;
-    margin: var(--standard-padding) 0;
+    margin: calc(var(--standard-padding) * 3) 0;
     justify-content: center;
 }
 .btn {

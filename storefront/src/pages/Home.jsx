@@ -14,6 +14,15 @@ export default function Home(){
                 </div>
                 <FeaturedCategories />
             </section>
+            <section className="page_section">
+                <article className="page_section_content">
+                    <p>SA Flooring is your first choice for laminate flooring, vinyl flooring, blinds and much more.</p>
+                    <p>Our expert advice is backed by more than 20 years experience in the industry, which sets us apart from the rest. We also do skirting, vinyl flooring, cornices, architraves, dado rails and self- levelling screed.</p>
+                    <div className="page_section_content_grid">
+                        
+                    </div>
+                </article>
+            </section>
         </>
     )
 }
