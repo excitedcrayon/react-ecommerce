@@ -4,6 +4,7 @@ import App from './App.jsx'
 import './css/reset.css';
 import './css/main.css';
 import './css/pageSlider.css';
+import './css/featuredCategories.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
