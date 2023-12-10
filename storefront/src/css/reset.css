@@ -21,6 +21,7 @@ a,button,strong,small,sup,blockquote,audio{
 video,
 img,
 svg{
+    user-select: none;
     cursor: pointer;
     display: block;
     width: 100%;
