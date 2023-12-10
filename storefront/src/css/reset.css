@@ -19,7 +19,8 @@ a,button,strong,small,sup,blockquote,audio{
 }
 
 video,
-img{
+img,
+svg{
     cursor: pointer;
     display: block;
     width: 100%;

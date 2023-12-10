@@ -6,6 +6,8 @@
 }
 :root{
 
+    --icon-size: 30px;
+
     --opacity-none: 0;
     --opacity-dim: 0.5;
     --opacity-full: 1;
